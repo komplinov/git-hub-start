@@ -1,0 +1,5 @@
+css/
+js/*.js
+js/**/*.js
+*.txt
+!test/test01.test
